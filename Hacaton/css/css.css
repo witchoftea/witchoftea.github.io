@@ -1,6 +1,6 @@
 body{
     background-color:#2F3148;
-    color:#e8f0ff;
+    color:#F8F0E3;
 }
 div.menu{
     display: inline-block;
@@ -32,4 +32,7 @@ div#forma{
 }
 header, footer{
     background-color: #8689AC;
+}
+header{
+height: 100px;
 }
