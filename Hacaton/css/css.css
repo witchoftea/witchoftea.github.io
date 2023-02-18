@@ -17,3 +17,7 @@ div#team{
 div.image,div.menu{
     display: inline-block;
 }
+div.menu{
+   text-align: center;
+   padding-left: 13px;
+}
