@@ -1,16 +1,11 @@
-nav a {
-    
-}
 div#project{
     background-color: rgb(161, 121, 255);
 }
 div#news{
     background-color: rgb(190, 255, 185);
-    display: inline-block;
 }
 div#partners{
     background-color: rgb(255, 248, 150);
-    display: inline-block;
 }
 div#team{
     background-color: rgb(181, 255, 255);
@@ -19,8 +14,8 @@ div.image,div.menu{
     display: inline-block;
 }
 div.image>img{
-    height:100px;
-    width: 100px;
+    height:50px;
+    width: 50px;
 }
 nav>a{
 display: inline;
