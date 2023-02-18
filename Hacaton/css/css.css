@@ -16,6 +16,7 @@ div.image,div.menu{
 div.image>img{
     height:50px;
     width: 50px;
+    margin-top: 25px;
 }
 nav>a{
 display: inline;
