@@ -10,15 +10,12 @@ div#partners{
 div#team{
     background-color: rgb(181, 255, 255);
 }
-div.image,div.menu{
+div.menu{
     display: inline-block;
 }
-div.image>img{
+img{
     height:50px;
     width: 50px;
-}
-img{
-    margin-top: 25px;
 }
 nav>a{
 display: inline;
