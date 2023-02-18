@@ -21,7 +21,7 @@ div.image>img{
     width: 100px;
 }
 nav{
-    display: inline-block;
+    display: inline;
     vertical-align:top;
 }
 nav>a{
