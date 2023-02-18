@@ -20,10 +20,6 @@ div.image>img{
     height:100px;
     width: 100px;
 }
-nav{
-    display: inline;
-    vertical-align:top;
-}
 nav>a{
 display: inline;
 text-decoration: none; 
