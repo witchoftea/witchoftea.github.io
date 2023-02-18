@@ -19,7 +19,7 @@ div.image,div.menu{
 }
 nav>a{
    text-align: center;
-   padding-left: 13px;
+   padding: 13px 6px;
    background-color: rgb(252, 255, 50);
    color: rgb(0, 0, 0);
 }
