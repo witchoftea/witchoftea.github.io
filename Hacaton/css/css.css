@@ -9,7 +9,7 @@ div#news{
     background-color: rgb(190, 255, 185);
 }
 div#partners{
-    background-color: rgb(255, 248, 150);
+    background-c1olor: rgb(255, 248, 150);
 }
 div#team{
     background-color: rgb(181, 255, 255);
@@ -20,7 +20,7 @@ div.image,div.menu{
 nav>a{
    text-align: center;
    padding: 6px 13px;
-   border:10px 2px;
+   margin: 1px 2px 3px 4px;
    background-color: rgb(252, 255, 50);
    color: rgb(0, 0, 0);
 }
