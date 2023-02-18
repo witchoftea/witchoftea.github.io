@@ -5,7 +5,7 @@ body{
 div.menu{
     display: inline-block;
 }
-img{
+.logo{
     height:50px;
     width: 50px;
 }
@@ -39,3 +39,22 @@ height: 75px;
 .instagram-media{
     display:inline;
 }
+n_buttons{
+    display: inline;
+    text-decoration: none; 
+    text-align: center;
+    padding: 6px 13px;
+    margin: 0px 4px 35px 4px;
+    background-color: #f2d65a;
+    color: rgb(0, 0, 0);
+    }
+    na_buttons{
+        display: inline;
+        text-decoration: none; 
+        text-align: center;
+        padding: 6px 13px;
+        margin: 0px 4px 35px 4px;
+        background-color: #88c778;
+        color: rgb(0, 0, 0);
+        }
+    
