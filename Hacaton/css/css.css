@@ -1,5 +1,5 @@
 body{
-    background-color: #244280;
+    background-color: #2F3148;
     color:#e8f0ff;
 }
 div.menu{
@@ -15,11 +15,11 @@ text-decoration: none;
 text-align: center;
 padding: 6px 13px;
 margin: 0px 4px 35px 4px;
-background-color: rgb(252, 255, 50);
+background-color: #f2d65a;
 color: rgb(0, 0, 0);
 }
 .d_buttons{
-    background-color: rgb(255, 225, 56);
+    background-color: #f2d65a;
     border-radius: 6px;
     text-decoration: none;
     color: black;
@@ -29,4 +29,7 @@ div#forma{
 }
 .footerb{
     text-decoration: none;
+}
+header, footer{
+    background-color: #8689AC;
 }
