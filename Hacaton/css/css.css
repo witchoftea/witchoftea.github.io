@@ -1,4 +1,7 @@
 body{
     background-color: #3E54AC;
 }
-.menu
+nav a {
+    display: inline;
+    text-decoration: none;
+}
