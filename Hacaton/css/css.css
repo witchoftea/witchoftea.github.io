@@ -6,9 +6,11 @@ div#project{
 }
 div#news{
     background-color: rgb(190, 255, 185);
+    display: inline-block;
 }
 div#partners{
     background-color: rgb(255, 248, 150);
+    display: inline-block;
 }
 div#team{
     background-color: rgb(181, 255, 255);
