@@ -26,6 +26,14 @@ margin: 0px 4px 35px 4px;
 background-color: rgb(252, 255, 50);
 color: rgb(0, 0, 0);
 }
+<<<<<<< HEAD
+div.d_buttons>a{
+    background-color: rgb(255, 225, 56);
+    text-align: center;
+    border-radius: 15px;
+}
+=======
 div#forma{
     text-align: center;
 }
+>>>>>>> ff09e3c8787d8e586e771a9171e98c252039efb6
