@@ -1,6 +1,5 @@
 nav a {
-    display: inline;
-    text-decoration: none;
+    
 }
 div#project{
     background-color: rgb(161, 121, 255);
@@ -22,10 +21,12 @@ div.image>img{
     width: 100px;
 }
 nav>a{
-   text-align: center;
-   padding: 6px 13px;
-   margin: 0px 4px;
-   background-color: rgb(252, 255, 50);
-   color: rgb(0, 0, 0);
-   padding-bottom: 50%;
+display: inline;
+text-decoration: none; 
+text-align: center;
+padding: 6px 13px;
+margin: 0px 4px;
+background-color: rgb(252, 255, 50);
+color: rgb(0, 0, 0);
+vertical-align: middle;
 }
