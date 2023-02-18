@@ -3,5 +3,14 @@ nav a {
     text-decoration: none;
 }
 div#project{
-    background-color: aqua;
+    background-color: rgb(161, 121, 255);
+}
+div#news{
+    background-color: rgb(190, 255, 185);
+}
+div#partners{
+    background-color: rgb(255, 248, 150);
+}
+div#team{
+    background-color: rgb(181, 255, 255);
 }
