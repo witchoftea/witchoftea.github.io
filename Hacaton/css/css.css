@@ -20,6 +20,9 @@ div.image>img{
     height:100px;
     width: 100px;
 }
+nav{
+    vertical-align: middle;
+}
 nav>a{
 display: inline;
 text-decoration: none; 
@@ -28,5 +31,4 @@ padding: 6px 13px;
 margin: 0px 4px;
 background-color: rgb(252, 255, 50);
 color: rgb(0, 0, 0);
-vertical-align: middle;
 }
