@@ -27,6 +27,5 @@ background-color: rgb(252, 255, 50);
 color: rgb(0, 0, 0);
 }
 div#forma{
-    margin:auto;
-    display:inline-block;
+    text-align: center;
 }
