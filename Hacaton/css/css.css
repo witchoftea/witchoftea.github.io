@@ -20,4 +20,6 @@ div.image,div.menu{
 nav>a{
    text-align: center;
    padding-left: 13px;
+   background-color: rgb(252, 255, 50);
+   color: white;
 }
