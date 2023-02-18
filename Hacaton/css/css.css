@@ -19,10 +19,13 @@ background-color: #f2d65a;
 color: rgb(0, 0, 0);
 }
 .d_buttons{
-    background-color: #f2d65a;
-    border-radius: 6px;
-    text-decoration: none;
-    color: black;
+    display: inline;
+text-decoration: none; 
+text-align: center;
+padding: 6px 13px;
+margin: 0px 4px 35px 4px;
+background-color: #f2d65a;
+color: rgb(0, 0, 0);
 }
 div#forma{
     text-align: center;
@@ -68,4 +71,5 @@ footer{
             background-color: #88c778;
             color: rgb(0, 0, 0);
 }
+
     
