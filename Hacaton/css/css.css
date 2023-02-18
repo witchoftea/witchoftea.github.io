@@ -1,9 +1,7 @@
-body{
-    /*background-color: #3E54AC;*/
-    border: 1px;
-    border-color: red;
-}
 nav a {
     display: inline;
     text-decoration: none;
+}
+div#project{
+    background-color: aqua;
 }
